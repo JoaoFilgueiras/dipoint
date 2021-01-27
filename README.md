@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-* **João Antonio Filgueiras** - *Initial work* - [JoaoFIlgueiras](https://github.com/JoaoFilgueiras)
+* **João Antonio Filgueiras** - [JoaoFIlgueiras](https://github.com/JoaoFilgueiras)
 
 See also the list of [contributors](https://github.com/JoaoFilgueiras/dipoint/contributors) who participated in this project.
 
