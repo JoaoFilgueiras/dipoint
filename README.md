@@ -21,14 +21,16 @@ You can view it available at [http://localhost:3000](http://localhost:3000) with
 
 ## Running the tests
 
+Run the application tests:
+
 ```bash
--- npm run test 
--- npm run test:watch
--- npm run test:nocoverage
+* npm run test 
+* npm run test:watch
+* npm run test:nocoverage
 # or
--- yarn test
--- yarn test:watch
--- yarn test:nocoverage
+* yarn test
+* yarn test:watch
+* yarn test:nocoverage
 ```
 
 ## Authors
@@ -43,6 +45,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
+* To anyone whose code has been used, or has contributed!
 * Inspiration
 * etc
