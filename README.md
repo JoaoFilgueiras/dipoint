@@ -9,7 +9,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing 🔧
 
-Install all dependencies from the project, 
+Install all dependencies from the project
+
+```bash
+npm install
+# or
+yarn
+```
 After, run the development server:
 
 ```bash
