@@ -1,13 +1,13 @@
 # Dipoint
 Project intention, it would be for studying nextjs and with that the creation of a digital point system to facilitate your daily notes !!
 
-## Getting Started
+## Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
-### Prerequisites
+### Prerequisites 📋
 
-### Installing
+### Installing 🔧
 
 Install all dependencies from the project, 
 After, run the development server:
@@ -19,7 +19,7 @@ yarn dev
 ```
 You can view it available at [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Running the tests
+## Running the tests ⚙️
 
 Run the application tests:
 
@@ -33,17 +33,17 @@ Run the application tests:
 * yarn test:nocoverage
 ```
 
-## Authors
+## Authors ✒️
 
 * **João Antonio Filgueiras** - [JoaoFIlgueiras](https://github.com/JoaoFilgueiras)
 
-See also the list of [contributors](https://github.com/JoaoFilgueiras/dipoint/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/JoaoFilgueiras/dipoint/contributors) 🖇️ who participated in this project.
 
-## License
+## License 📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Acknowledgments 🎁
 
 * To anyone whose code has been used, or has contributed!
 * Inspiration
